@@ -92,6 +92,7 @@
     <Content Include="Images\banner4.png" />
     <Content Include="Images\Competencias.png" />
     <Content Include="Images\globo.png" />
+    <Content Include="Images\hummingbird.jpg" />
     <Content Include="Images\icon.png" />
     <Content Include="Images\icon1.png" />
     <Content Include="Images\icon_faleconosco.png" />
@@ -115,6 +116,7 @@
     <Content Include="Projeto.css" />
     <Content Include="Sobre.aspx" />
     <Content Include="StyleSheet.css" />
+    <Content Include="Tarefa1.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -175,6 +177,13 @@
     </Compile>
     <Compile Include="Sobre.aspx.designer.cs">
       <DependentUpon>Sobre.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Tarefa1.aspx.cs">
+      <DependentUpon>Tarefa1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Tarefa1.aspx.designer.cs">
+      <DependentUpon>Tarefa1.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

@@ -41,6 +41,9 @@
                 <asp:HyperLink ID="Home" NavigateUrl="~/Default.aspx" runat="server">Home</asp:HyperLink>
                 <asp:HyperLink ID="Sobre" NavigateUrl="~/Sobre.aspx" runat="server">Sobre</asp:HyperLink>
                 <asp:HyperLink ID="Contato" NavigateUrl="~/Contato.aspx" runat="server">Contato</asp:HyperLink>
+                <asp:HyperLink ID="Tarefa1" NavigateUrl="~/Tarefa1.aspx" runat="server">Artigos</asp:HyperLink>
+
+
 
                 <asp:HyperLink ID="ExibirExcecoes" Visible="false" NavigateUrl="~/Admin/ExibirExcecoes.aspx" runat="server">Exceções</asp:HyperLink>
 
@@ -71,6 +74,10 @@
                         <br />
                         <asp:HyperLink ID="HyperLink2" NavigateUrl="~/Sobre.aspx" runat="server">Sobre</asp:HyperLink>
                         <br />
+                        <asp:HyperLink ID="HyperLink4" NavigateUrl="~/Contato.aspx" runat="server">Contato</asp:HyperLink>
+                        <br />
+                        <asp:HyperLink ID="HyperLink3" NavigateUrl="~/Tarefa1.aspx" runat="server">Artigos</asp:HyperLink>
+
                     </div>
                     <div class="col-4" style="text-align: right">
                         <img src="Images/marca1.png" />
