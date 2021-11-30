@@ -123,3 +123,7 @@ D:\lp2\tarefa-final\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.CoreCompileInput
 D:\lp2\tarefa-final\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.CopyComplete
 D:\lp2\tarefa-final\Projeto3\Projeto3\obj\Debug\Projeto3.dll
 D:\lp2\tarefa-final\Projeto3\Projeto3\obj\Debug\Projeto3.pdb
+E:\Facu\2 sem\Ling Programação II\projeto\fatec-tarefa-final-c-sharp\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.AssemblyReference.cache
+E:\Facu\2 sem\Ling Programação II\projeto\fatec-tarefa-final-c-sharp\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.CoreCompileInputs.cache
+E:\Facu\2 sem\Ling Programação II\projeto\fatec-tarefa-final-c-sharp\Projeto3\Projeto3\obj\Debug\Projeto3.dll
+E:\Facu\2 sem\Ling Programação II\projeto\fatec-tarefa-final-c-sharp\Projeto3\Projeto3\obj\Debug\Projeto3.pdb

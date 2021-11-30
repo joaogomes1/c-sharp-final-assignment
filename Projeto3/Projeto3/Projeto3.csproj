@@ -116,6 +116,7 @@
     <Content Include="Projeto.css" />
     <Content Include="Sobre.aspx" />
     <Content Include="StyleSheet.css" />
+    <Content Include="Tarefa2.aspx" />
     <Content Include="Tarefa1.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -177,6 +178,13 @@
     </Compile>
     <Compile Include="Sobre.aspx.designer.cs">
       <DependentUpon>Sobre.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Tarefa2.aspx.cs">
+      <DependentUpon>Tarefa2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Tarefa2.aspx.designer.cs">
+      <DependentUpon>Tarefa2.aspx</DependentUpon>
     </Compile>
     <Compile Include="Tarefa1.aspx.cs">
       <DependentUpon>Tarefa1.aspx</DependentUpon>
