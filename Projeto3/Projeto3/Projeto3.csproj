@@ -76,6 +76,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Admin\Feedback.aspx" />
     <Content Include="Admin\Usuarios.aspx" />
     <Content Include="App_Code\Leiame.txt" />
     <Content Include="App_Data\2021ADST.accdb" />
@@ -91,6 +92,7 @@
     <Content Include="Images\banner3.png" />
     <Content Include="Images\banner4.png" />
     <Content Include="Images\Competencias.png" />
+    <Content Include="Images\eagle.jpg" />
     <Content Include="Images\globo.png" />
     <Content Include="Images\hummingbird.jpg" />
     <Content Include="Images\icon.png" />
@@ -120,6 +122,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Admin\Feedback.aspx.cs">
+      <DependentUpon>Feedback.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Feedback.aspx.designer.cs">
+      <DependentUpon>Feedback.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Admin\Usuarios.aspx.cs">
       <DependentUpon>Usuarios.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

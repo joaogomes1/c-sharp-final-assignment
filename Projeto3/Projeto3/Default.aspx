@@ -36,61 +36,74 @@
     </div>
 
     <div class="row margin-top-60">
-        <div class="col-3 padding-lr">
-            <div>
-                <img width="100%" src="Images/si1.png" />
-            </div>
-            <div class="font-12">
-                <h4>Sobre Analise de Sistemas</h4>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            </div>
-            <asp:HyperLink ID="HyperLink1" NavigateUrl="Ads.aspx" runat="server">Saiba mais...</asp:HyperLink>
-        </div>
 
-        <div class="col-3 padding-lr">
-            <div>
-                <img width="100%" src="Images/si2.jpg" />
+        <div class="col-3 padding-lr" style="border:1px solid gray;">
+
+            <div style="height:50%; text-align:right; display:flex;">
+                <img style="width:100%; margin:auto;" src="Images/eagle-thumb.jpg"/>
             </div>
-            <div class="font-12">
-                <h4>Sobre linguagens de Programação</h4>
-                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
+
+            <div class="font-12" style="padding-top:1vh;">
+                <h4>O novo processador quântico da IBM</h4>
+                Multinacional inova mais uma vez e apresenta o seu processador 'Eagle', com capacidade de 127 qubits.
+                <asp:HyperLink ID="HyperLink1" NavigateUrl="~/Tarefa1.aspx" runat="server">Saiba mais...</asp:HyperLink>
             </div>
-            <asp:HyperLink ID="HyperLink2" NavigateUrl="Linguagens.aspx" runat="server">Saiba mais...</asp:HyperLink>
 
         </div>
 
-        <div class="col-3 padding-lr">
-            <div>
-                <img width="100%" src="Images/si2.jpg" />
+        <div class="col-3 padding-lr" style="border:1px solid gray;">
+
+            <div style="height:50%; text-align:right; display:flex;">
+                <img style="width:100%; margin:auto;" src="Images/sql.png"/>
             </div>
-            <div class="font-12">
-                <h4>Projeto de Sistemas </h4>
-                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
+
+            <div class="font-12" style="padding-top:1vh;">
+                <h4>O novo processador quântico da IBM</h4>
+                Multinacional inova mais uma vez e apresenta o seu processador 'Eagle', com capacidade de 127 qubits.
+                <asp:HyperLink ID="HyperLink2" NavigateUrl="" runat="server">Saiba mais...</asp:HyperLink>
             </div>
-            <asp:HyperLink ID="HyperLink3" NavigateUrl="Projetos.aspx" runat="server">Saiba mais...</asp:HyperLink>
 
         </div>
 
-        <div class="col-3 padding-lr">
-            <div>
-                <img width="100%" src="Images/si4.jpg" />
-            </div>
-            <div class="font-12">
-                <h4>Aplicativos para Mobile</h4>
+       
 
-                nesciunt.consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.consectetur adipisicing elit,
-            </div>
-            <asp:HyperLink ID="HyperLink4" NavigateUrl="Mobile.aspx" runat="server">Saiba mais...</asp:HyperLink>
+
+   
+        <div class="col-6 padding-lr" style="border:1px solid gray; padding-top: 3vh; padding-bottom: 3vh; text-align:center">
+            <%--background-color: #e1e1e1--%>
+            
+            <h2> Links Úteis </h2>
+
+            <%--<h5>--%>
+                <a href="https://www.ibm.com/br-pt">IBM - Brasil</a>
+                <br />
+                <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">Documentação do C#</a>
+                <br />
+                <a href="https://visualstudio.microsoft.com/pt-br/">Visual Studio 2022</a>
+                <br />
+                <br />
+                <%--<a href="http://flexslider.woothemes.com/">Flex slider</a>
+                <br />--%>
+                <a href="https://aws.amazon.com/pt/">Amazon Web Services (AWS)</a>
+                <br />
+                <a href="https://somee.com/default.aspx">Somee internet hosting</a>
+                <br />
+                <br />
+                <a href="https://www.vestibularfatec.com.br/home/">Vestibular FATEC 2022</a>
+
+            <%--</h5>--%>
+
         </div>
+
     </div>
 
     <div class="row box">
-        <div class="col-2">
-            <div class="border">
+        <div class="col-12" style="text-align:center;">
+            <div class="border" style="padding-top:2vh;">
                 <img width="100px" src="Images/programador.png" />
                 <div class="font-12">
                     <h4>Programação</h4>
-                    Quer ser um programador? faça o curso de Analise e Desenvolvimento de Sistema da Fatec de Americana.
+                    Quer ser um programador? Faça o curso de Analise e Desenvolvimento de Sistemas da Fatec de Americana.
                 </div>
                 <asp:HyperLink ID="HyperLink5" NavigateUrl="http://www.fatec.edu.br" Target="_blank" runat="server">Saiba mais...</asp:HyperLink>
             </div>
