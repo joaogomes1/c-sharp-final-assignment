@@ -13,11 +13,11 @@
 
                 <%-- TEXTO --%>
                 <div>
-                    Esse projeto foi desenvolvido na disciplina Eletiva - Programação C# no curso de Análise e desenvolvimento de sistemas,  da FATEC de Americana/SP.
+                    Projeto desenvolvido na disciplina Eletiva - Programação C#, curso de Análise e Desenvolvimento de Sistemas, da FATEC de Americana/SP.
                     <br />
                     <br />
 
-                    Com modelo do projeto desenvolvido durante às aulas realizamos adições e modificações referentes à tarefa final da disciplina.
+                    Com o modelo do projeto desenvolvido durante as aulas, forma realizadas adições e modificações referentes à tarefa final da disciplina.
                     <br />
                     <br />
                     <h2>Projeto desenvolvido pelos alunos:</h2>
