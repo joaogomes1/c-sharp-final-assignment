@@ -25,7 +25,6 @@
                         <li>Caio de Luccas Rosolen</li>
                         <li>João Ricardo de Souza Gomes</li>
                         <li>Juan Rodrigues Batista Marques</li>
-                        <li>Marco Peerci</li>
                     </ul>
                 </div>
             </div>
