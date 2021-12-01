@@ -42,13 +42,22 @@ namespace Projeto3
         protected global::System.Web.UI.WebControls.HyperLink Home;
 
         /// <summary>
-        /// Controle Sobre.
+        /// Controle Tarefa1.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.HyperLink Sobre;
+        protected global::System.Web.UI.WebControls.HyperLink Tarefa1;
+
+        /// <summary>
+        /// Controle Tarefa2.
+        /// </summary>
+        /// <remarks>
+        /// Campo gerado automaticamente.
+        /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.HyperLink Tarefa2;
 
         /// <summary>
         /// Controle Contato.
@@ -60,13 +69,13 @@ namespace Projeto3
         protected global::System.Web.UI.WebControls.HyperLink Contato;
 
         /// <summary>
-        /// Controle Tarefa1.
+        /// Controle Sobre.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.HyperLink Tarefa1;
+        protected global::System.Web.UI.WebControls.HyperLink Sobre;
 
         /// <summary>
         /// Controle ExibirExcecoes.
@@ -123,13 +132,22 @@ namespace Projeto3
         protected global::System.Web.UI.WebControls.HyperLink HyperLink1;
 
         /// <summary>
-        /// Controle HyperLink2.
+        /// Controle HyperLink3.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.HyperLink HyperLink2;
+        protected global::System.Web.UI.WebControls.HyperLink HyperLink3;
+
+        /// <summary>
+        /// Controle HyperLink5.
+        /// </summary>
+        /// <remarks>
+        /// Campo gerado automaticamente.
+        /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.HyperLink HyperLink5;
 
         /// <summary>
         /// Controle HyperLink4.
@@ -141,12 +159,12 @@ namespace Projeto3
         protected global::System.Web.UI.WebControls.HyperLink HyperLink4;
 
         /// <summary>
-        /// Controle HyperLink3.
+        /// Controle HyperLink2.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.HyperLink HyperLink3;
+        protected global::System.Web.UI.WebControls.HyperLink HyperLink2;
     }
 }

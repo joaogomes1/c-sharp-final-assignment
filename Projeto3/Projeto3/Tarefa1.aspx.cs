@@ -13,5 +13,10 @@ namespace Projeto3
         {
 
         }
+
+        protected void EnviarComentario_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

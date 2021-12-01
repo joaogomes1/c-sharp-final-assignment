@@ -55,6 +55,15 @@
 
                 </div>
 
+                <%--<div>
+                    <div class="col-6">
+                    <div class="box border margin-left-10">
+                        <h2>Deixe seus comentários!</h2>
+                        <label>Mensagem</label>
+                        <asp:TextBox ID="Comentario" TextMode="MultiLine" Rows="6" MaxLength="1000" runat="server"></asp:TextBox>
+                        <asp:Button ID="EnviarComentario" OnClick="EnviarComentario_Click" runat="server" Text="Enviar" />
+                    </div>
+                </div>--%>
 
             </div>
         </div>    

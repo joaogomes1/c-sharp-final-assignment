@@ -22,7 +22,7 @@
 
                 <%-- TEXTO --%>
                 <div>
-                   Injeção SQL é um dos ataques mais comuns em sistemas web realizado pelos hackers. O engraçado é que se proteger desse tipo de vulnerabilidade não é complicado. Por isso esse vídeo é importante para todo tipo de desenvolvedor, do júnior ao sênior. Fizemos questão de mostrar algumas das formas mais comuns de se fazer esse tipo de ataque para todos verem como o SQLi é perigoso de verdade.
+                   Injeção SQL é um dos ataques mais comuns em sistemas web, realizado pelos hackers. O engraçado é que se proteger desse tipo de vulnerabilidade não é complicado. Por isso esse vídeo é importante para todo tipo de desenvolvedor, do júnior ao sênior. Fizemos questão de mostrar algumas das formas mais comuns de se fazer esse tipo de ataque para todos verem como o SQLi é perigoso de verdade.
                     <br />
                     <br />
                     <h5 style="font-style: oblique;">

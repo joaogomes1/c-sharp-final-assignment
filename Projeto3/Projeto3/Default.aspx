@@ -9,19 +9,27 @@
         <div class="flexslider" style="direction: rtl;">
             <ul class="slides">
                 <li>
-                    <img src="Images/banner0.png" />
+                    <a href="https://www.fatec.edu.br">
+                        <img src="Images/banner0.png" />
+                    </a>
                 </li>
 
                 <li>
-                    <img src="Images/banner1.png" />
+                    <a href="https://www.fatec.edu.br" >
+                        <img src="Images/banner3.png" />
+                    </a>
                 </li>
 
                 <li>
-                    <img src="Images/banner2.png" />
+                    <a href="https://www.fatec.edu.br">
+                        <img src="Images/banner2.png" />
+                    </a>
                 </li>
 
                 <li>
-                    <img src="Images/banner3.png" />
+                    <a href="https://www.fatec.edu.br/cursos/analise-e-desenvolvimento-de-sistemas/" >
+                        <img src="Images/banner1.png" />
+                    </a>
                 </li>
             </ul>
         </div>
@@ -40,7 +48,9 @@
         <div class="col-3 padding-lr" style="border:1px solid gray;">
 
             <div style="height:50%; text-align:right; display:flex;">
-                <img style="width:100%; margin:auto;" src="Images/eagle-thumb.jpg"/>
+                <a href="../Tarefa1.aspx">
+                    <img style="width:100%; margin:auto;" src="Images/eagle-thumb.jpg"/>
+                </a>
             </div>
 
             <div class="font-12" style="padding-top:1vh;">
@@ -54,12 +64,14 @@
         <div class="col-3 padding-lr" style="border:1px solid gray;">
 
             <div style="height:50%; text-align:right; display:flex;">
-                <img style="width:100%; margin:auto;" src="Images/sql.png"/>
+                <a href="../Tarefa2.aspx">
+                    <img style="width:100%; margin:auto;" src="Images/sql.png"/>
+                </a>
             </div>
 
             <div class="font-12" style="padding-top:1vh;">
                 <h4>Saiba o que é SQL Injection</h4>
-                Injeção SQL é um dos ataques mais comuns em sistemas web realizado pelos hackers.
+                Injeção SQL é um dos ataques mais comuns em sistemas web, realizado pelos hackers.
                 <asp:HyperLink ID="HyperLink2" NavigateUrl="~/Tarefa2.aspx" runat="server">Saiba mais...</asp:HyperLink>
             </div>
 
@@ -96,7 +108,9 @@
     <div class="row box" style="margin-top:2vh;">
         <div class="col-12" style="text-align:center;">
             <div class="border" style="padding-top:2vh;">
-                <img width="100px" src="Images/programador.png" />
+                <a href="https://www.fatec.edu.br/">
+                    <img width="100px" src="Images/programador.png" />
+                </a>
                 <div class="font-12">
                     <h4>Programação</h4>
                     Quer ser um programador? Faça o curso de Analise e Desenvolvimento de Sistemas da Fatec de Americana.

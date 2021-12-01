@@ -39,9 +39,10 @@
             <!-- BARRA DO MENU -->
             <div class="barra-menu">
                 <asp:HyperLink ID="Home" NavigateUrl="~/Default.aspx" runat="server">Home</asp:HyperLink>
-                <asp:HyperLink ID="Sobre" NavigateUrl="~/Sobre.aspx" runat="server">Sobre</asp:HyperLink>
-                <asp:HyperLink ID="Contato" NavigateUrl="~/Contato.aspx" runat="server">Contato</asp:HyperLink>
                 <asp:HyperLink ID="Tarefa1" NavigateUrl="~/Tarefa1.aspx" runat="server">Artigos</asp:HyperLink>
+                <asp:HyperLink ID="Tarefa2" NavigateUrl="~/Tarefa2.aspx" runat="server">Vídeos</asp:HyperLink>
+                <asp:HyperLink ID="Contato" NavigateUrl="~/Contato.aspx" runat="server">Contato</asp:HyperLink>
+                <asp:HyperLink ID="Sobre" NavigateUrl="~/Sobre.aspx" runat="server">Sobre</asp:HyperLink>
 
 
 
@@ -72,11 +73,14 @@
                     <div class="col-4">
                         <asp:HyperLink ID="HyperLink1" NavigateUrl="~/Default.aspx" runat="server">Home</asp:HyperLink>
                         <br />
-                        <asp:HyperLink ID="HyperLink2" NavigateUrl="~/Sobre.aspx" runat="server">Sobre</asp:HyperLink>
+                        <asp:HyperLink ID="HyperLink3" NavigateUrl="~/Tarefa1.aspx" runat="server">Artigos</asp:HyperLink>
+                        <br />
+                        <asp:HyperLink ID="HyperLink5" NavigateUrl="~/Tarefa2.aspx" runat="server">Vídeos</asp:HyperLink>
                         <br />
                         <asp:HyperLink ID="HyperLink4" NavigateUrl="~/Contato.aspx" runat="server">Contato</asp:HyperLink>
                         <br />
-                        <asp:HyperLink ID="HyperLink3" NavigateUrl="~/Tarefa1.aspx" runat="server">Artigos</asp:HyperLink>
+                        <asp:HyperLink ID="HyperLink2" NavigateUrl="~/Sobre.aspx" runat="server">Sobre</asp:HyperLink>
+
 
                     </div>
                     <div class="col-4" style="text-align: right">
