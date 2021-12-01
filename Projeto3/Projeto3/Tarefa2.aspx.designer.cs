@@ -11,7 +11,7 @@ namespace Projeto3
 {
 
 
-    public partial class Tarefa1
+    public partial class Tarefa2
     {
     }
 }
