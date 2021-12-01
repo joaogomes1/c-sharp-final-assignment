@@ -1,2 +1,0 @@
-﻿Sempre que uma classe for adicionada a esta pasta "App_Code", em proproedades da 
-classe alterar "Ação de Compilação" de Conteúdo para Compilar.
