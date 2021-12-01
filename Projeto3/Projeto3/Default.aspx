@@ -60,7 +60,7 @@
             <div class="font-12" style="padding-top:1vh;">
                 <h4>O novo processador quântico da IBM</h4>
                 Multinacional inova mais uma vez e apresenta o seu processador 'Eagle', com capacidade de 127 qubits.
-                <asp:HyperLink ID="HyperLink2" NavigateUrl="" runat="server">Saiba mais...</asp:HyperLink>
+                <asp:HyperLink ID="HyperLink2" NavigateUrl="~/Tarefa2.aspx" runat="server">Saiba mais...</asp:HyperLink>
             </div>
 
         </div>
