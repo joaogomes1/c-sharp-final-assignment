@@ -42,6 +42,8 @@ namespace Projeto3
                 Comentario.Text = "";
 
             }
+
+            EnviarComentario.Focus();
         }
     }
 }
