@@ -87,15 +87,6 @@ namespace Projeto3
         protected global::System.Web.UI.WebControls.HyperLink ExibirExcecoes;
 
         /// <summary>
-        /// Controle Login.
-        /// </summary>
-        /// <remarks>
-        /// Campo gerado automaticamente.
-        /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.HyperLink Login;
-
-        /// <summary>
         /// Controle Usuarios.
         /// </summary>
         /// <remarks>
@@ -103,6 +94,24 @@ namespace Projeto3
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
         protected global::System.Web.UI.WebControls.HyperLink Usuarios;
+
+        /// <summary>
+        /// Controle Comentarios.
+        /// </summary>
+        /// <remarks>
+        /// Campo gerado automaticamente.
+        /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.HyperLink Comentarios;
+
+        /// <summary>
+        /// Controle Login.
+        /// </summary>
+        /// <remarks>
+        /// Campo gerado automaticamente.
+        /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.HyperLink Login;
 
         /// <summary>
         /// Controle Logout.

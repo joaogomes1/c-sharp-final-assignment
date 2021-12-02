@@ -43,7 +43,7 @@
         </script>
     </div>
 
-    <div class="row margin-top-60">
+    <div class="row margin-top-60" style="background-color: #e1e1e1">
 
         <div class="col-3 padding-lr" style="border:1px solid gray;">
 
@@ -82,7 +82,6 @@
             
             <h2> Links Úteis </h2>
 
-            <%--<h5>--%>
                 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">Documentação do C#</a>
                 <br />
                 <a href="https://visualstudio.microsoft.com/pt-br/">Visual Studio 2022</a>
@@ -90,16 +89,12 @@
                 <a href="https://www.ibm.com/br-pt">IBM - Brasil</a>
                 <br />
                 <br />
-                <%--<a href="http://flexslider.woothemes.com/">Flex slider</a>
-                <br />--%>
                 <a href="https://aws.amazon.com/pt/">Amazon Web Services (AWS)</a>
                 <br />
                 <a href="https://somee.com/default.aspx">Somee internet hosting</a>
                 <br />
                 <br />
                 <a href="https://www.vestibularfatec.com.br/home/">Vestibular FATEC 2022</a>
-
-            <%--</h5>--%>
 
         </div>
 

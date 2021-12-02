@@ -76,6 +76,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Admin\ExibirComentarios.aspx" />
     <Content Include="Admin\Usuarios.aspx" />
     <Content Include="App_Code\Leiame.txt" />
     <Content Include="App_Data\2021ADST.accdb" />
@@ -124,6 +125,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Admin\ExibirComentarios.aspx.cs">
+      <DependentUpon>ExibirComentarios.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\ExibirComentarios.aspx.designer.cs">
+      <DependentUpon>ExibirComentarios.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Admin\Usuarios.aspx.cs">
       <DependentUpon>Usuarios.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

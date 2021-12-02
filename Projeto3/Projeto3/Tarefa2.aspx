@@ -32,8 +32,22 @@
                         <li><a href="https://youtu.be/snOXxJa31GI">ORM</a></li>
                         <li><a href="https://youtu.be/kMznyI7r2Tc">SQL</a></li>
                     </ul>
-                    
 
+                    <br />
+
+                </div>
+
+                 <%-- COMENTÁRIOS --%>
+                <div>
+                    <div class="col-6">
+                        <div class="box border margin-left-10">
+                            <h2>Gostou do conteúdo?</h2>
+                            <asp:Label ID="ErroComentario" Font-Size="16px" ForeColor="red" runat="server" ></asp:Label>
+                            <label>Deixe seu comentário:</label>
+                            <asp:TextBox ID="Comentario" TextMode="MultiLine" Rows="6" MaxLength="1000" runat="server"></asp:TextBox>
+                            <asp:Button ID="EnviarComentario" OnClick="EnviarComentario_Click" runat="server" Text="Enviar" />
+                        </div>
+                    </div>
                 </div>
 
 

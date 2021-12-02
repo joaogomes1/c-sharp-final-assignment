@@ -14,16 +14,18 @@ namespace Projeto3
             if (Session["Autenticado"] != null)
             {
                 ExibirExcecoes.Visible = true;
-                Logout.Visible = true;
-                Login.Visible = false;
                 Usuarios.Visible = true;
+                Comentarios.Visible = true;
+                Login.Visible = false;
+                Logout.Visible = true;
             }
             else
             {
                 ExibirExcecoes.Visible = false;
-                Logout.Visible = false;
-                Login.Visible = true;
                 Usuarios.Visible = false;
+                Comentarios.Visible = false;
+                Login.Visible = true;
+                Logout.Visible = false;
             }
         }
     }

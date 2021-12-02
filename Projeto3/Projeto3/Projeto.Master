@@ -48,10 +48,11 @@
 
                 <asp:HyperLink ID="ExibirExcecoes" Visible="false" NavigateUrl="~/Admin/ExibirExcecoes.aspx" runat="server">Exceções</asp:HyperLink>
 
-                <asp:HyperLink ID="Login" Visible="true" NavigateUrl="~/Login.aspx" runat="server">Entrar</asp:HyperLink>
-
                 <asp:HyperLink ID="Usuarios" Visible="false" NavigateUrl="~/Admin/Usuarios.aspx" runat="server">Usuários</asp:HyperLink>
+                <asp:HyperLink ID="Comentarios" Visible="false" NavigateUrl="~/Admin/ExibirComentarios.aspx" runat="server">Comentários</asp:HyperLink>
 
+
+                <asp:HyperLink ID="Login" Visible="true" NavigateUrl="~/Login.aspx" runat="server">Entrar</asp:HyperLink>
                 <asp:HyperLink ID="Logout" Visible="false" NavigateUrl="~/Logout.aspx" runat="server">Sair</asp:HyperLink>
             </div>
         </header>
@@ -84,7 +85,7 @@
 
                     </div>
                     <div class="col-4" style="text-align: right">
-                        <img src="Images/marca1.png" />
+                        <img src="../Images/marca1.png" />
                     </div>
                 </div>
             </div>
