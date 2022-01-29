@@ -1,3 +1,8 @@
-Aplicação web
+Basic web application using:
 
-.NET
+▪ HTML;
+▪ CSS;
+▪ JavaScript;
+▪ C#;
+▪ ASP.Net;
+▪ SQL
