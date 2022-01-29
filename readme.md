@@ -1,8 +1,13 @@
 Basic web application using:
 
-▪ HTML;
-▪ CSS;
-▪ JavaScript;
-▪ C#;
-▪ ASP.Net;
+▪ HTML
+
+▪ CSS
+
+▪ JavaScript
+
+▪ C#
+
+▪ ASP.Net
+
 ▪ SQL
