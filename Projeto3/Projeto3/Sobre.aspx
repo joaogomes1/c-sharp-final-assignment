@@ -17,7 +17,7 @@
                     <br />
                     <br />
 
-                    Com o modelo do projeto desenvolvido durante as aulas, forma realizadas adições e modificações referentes à tarefa final da disciplina.
+                    Com o modelo do projeto desenvolvido durante as aulas, foram realizadas adições e modificações referentes à tarefa final da disciplina.
                     <br />
                     <br />
                     <h2>Projeto desenvolvido pelos alunos:</h2>
