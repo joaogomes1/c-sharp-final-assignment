@@ -2,7 +2,7 @@
 
 
 
-Uses: 
+Languages: 
 
 ▪ HTML
 
