@@ -16,4 +16,4 @@ Languages:
 
 ▪ SQL
 
-link: http://yellosdino.somee.com/
+Link: http://yellosdino.somee.com/
